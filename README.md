@@ -13,8 +13,8 @@ It is well known that the accuracy and linearity of thermocouples in negative te
 
    Thermocouple wiring:
 
-   -  + (Red wire)  -> Chip pin 3, PB4
-   -  - (Blue wire) -> Chip pin 2, PB3
+   - (+) Red wire  -> Chip pin 3, PB4
+   - (-) Blue wire -> Chip pin 2, PB3
    - Remove the connection of pin PB3 to GND in the original schematic.   
 
    SOFTWARE
